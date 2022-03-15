@@ -1,4 +1,4 @@
-# xueruifang个人博客
+# Yuki-Yee个人博客
 
 ## 如何开始
 ```
@@ -16,4 +16,4 @@ npm start
 npm run pd
 ```
 访问地址：
-[ https://xrf0517.github.io/xrf_blog/]( https://xrf0517.github.io/xrf_blog/)
+[ https://github.com/Yuki-Yee/blog/]( https://github.com/Yuki-Yee/blog/)

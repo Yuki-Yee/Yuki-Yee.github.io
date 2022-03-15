@@ -1,7 +1,7 @@
 module.exports = {
   base: '/blog/',
   dest: 'docs',
-  title:'xueruifang的博客',
+  title:'Yuki-Yee的博客',
   description:'让全栈编程更容易！',
   head:[
     ['link', { rel: 'icon', href: 'favicon.ico' }],
@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         text: 'github',
-        link: 'https://github.com/xrf0517/blog'
+        link: 'https://github.com/Yuki-Yee/blog'
       },
     ],
     sidebar: {

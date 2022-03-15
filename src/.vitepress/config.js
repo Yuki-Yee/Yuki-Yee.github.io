@@ -7,11 +7,11 @@ module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
   base:'/blog/',
-  title: 'xueruifang',
+  title: 'Yuki-Yee',
   description: '让全栈编程更容易~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
-    repo: 'xrf0517/blog',
+    repo: 'Yuki-Yee/blog',
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',
